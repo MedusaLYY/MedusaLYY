@@ -1,4 +1,4 @@
-<img width="1120" height="978" alt="image" src="https://github.com/user-attachments/assets/395b7a8c-e1d9-418e-ae26-7a41063688f6" /><div align="center">
+<div align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+MedusaLYY.+Frontend+Developer.">
     <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+MedusaLYY.+Frontend+Developer." alt="Hi" />
   </a>
